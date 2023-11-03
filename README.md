@@ -49,6 +49,6 @@ don't use Markdown.
 - [ ] Syntax highlighting
 - [ ] Use GitHub-Flavoured Markdown
 - [ ] Export to HTML
-- [ ] Split view
+- [X] Split view
 - [ ] Export to PDF or DOCX
 - [ ] Other documentation formats (reStructuredText, AsciiDoc, etc.)
