@@ -11,6 +11,8 @@ Electricity is a Markdown editor written in Electron.
 It's not the best editor in the world, but it sure is one of the editors ever
 written.
 
+Electricity's UI loosely follows [Material Design 3 guidelines](https://m3.material.io).
+
 ### Why Electron?
 
 Because I felt like it, shut up.
@@ -36,13 +38,15 @@ don't use Markdown.
 
 ### Functional
 
-- [ ] The user interface
-- [ ] Markdown editing
-- [ ] HTML preview
+- [X] The user interface
+- [X] Markdown editing
+- [X] HTML preview
 - [ ] Save/load files
 
 ### Advanced
 
+- [ ] Simultaneous scrolling
+- [ ] Syntax highlighting
 - [ ] Use GitHub-Flavoured Markdown
 - [ ] Export to HTML
 - [ ] Split view
